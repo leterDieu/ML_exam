@@ -1,3 +1,5 @@
+[ML_exam_vi](ML_exam_v1.md)
+
 # Ответственные за вопросы:
 ## Лекция 1.
 1. [httpROSSOL](https://github.com/httpROSSOL)
