@@ -1,5 +1,5 @@
-[ML_exam_vi](ML_exam_v1.md)
-
+[ML_exam_v3 в .md формате для обсидиана](ML_exam_v3.md)
+[ML_exam_v3 в pdf формате](ML_exam_v3.pdf)
 # Ответственные за вопросы:
 ## Лекция 1.
 1. [httpROSSOL](https://github.com/httpROSSOL)
